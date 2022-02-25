@@ -1,0 +1,247 @@
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.exe
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csprojAssemblyReference.cache
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.exe
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.exe
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.exe
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.exe
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\optimized\
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.AssemblyReference.cache
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CoreCompileInputs.cache
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CopyComplete
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.exe
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.exe
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.iOS.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\AppBindingCommands.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\optimized\
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.csproj.CopyComplete
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.exe
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands.iOS\obj\iPhone\Debug\AppBindingCommands.iOS.pdb

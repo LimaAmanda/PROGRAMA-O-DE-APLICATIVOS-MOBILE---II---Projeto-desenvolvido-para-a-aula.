@@ -1,0 +1,74 @@
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\ref\AppBindingCommands.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csprojAssemblyReference.cache
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
+D:\Work\ETEC\PAM2021-2\Aula02\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\ref\AppBindingCommands.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
+D:\Work\ETEC\PAM2022-1\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\ref\AppBindingCommands.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.AssemblyReference.cache
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
+C:\Mobile 3DS\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\refint\AppBindingCommands.dll
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Users\user\Desktop\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.AssemblyReference.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\refint\AppBindingCommands.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
